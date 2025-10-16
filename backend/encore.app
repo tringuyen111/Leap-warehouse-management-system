@@ -1,0 +1,1 @@
+{"id": "warehouse-management-system-oigi", "lang": "typescript"}
